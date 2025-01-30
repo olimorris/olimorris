@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hi there
+
+I'm Oli.
+
+A passionate Neovim user who likes to expand and support the plugin ecosystem with tools that make a developer's life more enjoyable.
+
+- ✨ I’m currently working on [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)
+- 🌱 Currently learning all things agentic (both personally and professionally)
+- 📫 Shall be launching my blog very soon ...
+- ⚡ Fun fact: If you have an animal in your GitHub photo, I'm more likely to implement your enhancement request 😆
 
 <!--
 **olimorris/olimorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
