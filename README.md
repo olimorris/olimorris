@@ -2,7 +2,7 @@
 
 I'm Oli.
 
-A passionate Neovim user who likes to expand and support the plugin ecosystem with tools that make a developer's life more enjoyable.
+A passionate Neovim user who likes to expand and support the plugin ecosystem with tools that make a dev's life more enjoyable.
 
 - ✨ I’m currently working on [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)
 - 🌱 Currently learning all things agentic (both personally and professionally)
