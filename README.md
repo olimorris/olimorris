@@ -9,6 +9,8 @@ A passionate Neovim user who likes to expand and support the plugin ecosystem wi
 - 📫 Shall be launching my blog very soon ...
 - ⚡ Fun fact: If you have an animal in your GitHub photo, I'm more likely to implement your enhancement request 😆
 
+If my work makes you happier and/or more productive, please consider a 🩷 [sponsorship](https://github.com/sponsors/olimorris) or a ☕ [coffee](https://buymeacoffee.com/olimorris).
+
 <!--
 **olimorris/olimorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
