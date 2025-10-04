@@ -11,7 +11,7 @@ A passionate Neovim user who likes to expand and support the plugin ecosystem wi
 
 If my work makes you happy and/or more productive, please consider a 🩷 [sponsorship](https://github.com/sponsors/olimorris) or a ☕ [coffee](https://buymeacoffee.com/olimorris).
 
-My most recent [blog](https://blog.olimorris.com) posts:
+My most recent blog posts:
 <!--START_SECTION:feed-->
 * [Using Agents in n8n to automate your GitHub repo](https://blog.olimorris.com/2025/10/04/automating-the-chores.html)
 * [Welcome to my blog](https://blog.olimorris.com/2025/09/28/welcome-to-my-blog.html)
