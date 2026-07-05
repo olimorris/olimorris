@@ -17,3 +17,4 @@ jobs:
         with:
           feed_list: "https://blog.olimorris.com/feed.xml"
           commit_message: "feat: add new blog post"
+          dummy_commit_message: "chore: dummy commit to keep the repository active"
