@@ -17,5 +17,5 @@ My most recent blog posts:
 - [Migrating a self-hosted n8n instance from DigitalOcean to Hetzner without any data loss](https://blog.olimorris.com/2026/07/05/migrating-self-hosted-n8n-from-digitalocean-to-hetzner/)
 - [Persistent context with a PERSONAL.md file](https://blog.olimorris.com/2026/03/19/persistent-context-with-a-personal-md-file/)
 - [Moving to Ghostty from WezTerm](https://blog.olimorris.com/2025/12/06/moving-to-ghostty-from-wezterm/)
-- [Using Agents in n8n to automate your GitHub repo](https://blog.olimorris.com/2025/10/04/automating-the-chores/)
+- [Using Agents in n8n to automate your GitHub repo](https://blog.olimorris.com/2025/10/04/using-agents-in-n8n-to-automate-your-github-repo/)
 <!-- BLOG-POST-LIST:END -->
