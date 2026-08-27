@@ -13,9 +13,9 @@ If my work makes you happy and/or more productive, please consider a 🩷 [spons
 
 My most recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Setting up herdr with Ghostty for Agentic Workflows](https://blog.olimorris.com/2026/08/27/setting-up-herdr-with-ghostty-for-agentic-workflows/)
 - [How to Set Up n8n’s AI Assistant on a Self-Hosted Server](https://blog.olimorris.com/2026/07/14/setup-n8n-ai-assistant-on-self-hosted-server/)
 - [Migrating a self-hosted n8n instance from DigitalOcean to Hetzner without any data loss](https://blog.olimorris.com/2026/07/05/migrating-self-hosted-n8n-from-digitalocean-to-hetzner/)
 - [Persistent context with a PERSONAL.md file](https://blog.olimorris.com/2026/03/19/persistent-context-with-a-personal-md-file/)
 - [Moving to Ghostty from WezTerm](https://blog.olimorris.com/2025/12/06/moving-to-ghostty-from-wezterm/)
-- [Using Agents in n8n to automate your GitHub repo](https://blog.olimorris.com/2025/10/04/using-agents-in-n8n-to-automate-your-github-repo/)
 <!-- BLOG-POST-LIST:END -->
