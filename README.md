@@ -9,8 +9,6 @@ A passionate Neovim user who likes to expand and support the plugin ecosystem wi
 - 📫 Try to [blog](https://blog.olimorris.com) when I have useful things to share
 - ⚡ Fun fact: If you have an animal in your GitHub photo, I'm more likely to implement your enhancement request 😆
 
-If my work makes you happy and/or more productive, please consider a 🩷 [sponsorship](https://github.com/sponsors/olimorris) or a ☕ [coffee](https://buymeacoffee.com/olimorris).
-
 My most recent blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to use multiple cursors in Neovim 0.13](https://blog.olimorris.com/2026/09/02/multiple-cursors-in-neovim-0.13/)
