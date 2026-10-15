@@ -5,7 +5,6 @@ I'm Oli.
 A passionate Neovim user who likes to expand and support the plugin ecosystem with tools that make a dev's life more enjoyable.
 
 - ✨ I’m currently working on [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim)
-- 🌱 Currently learning all things agentic (both personally and professionally)
 - 📫 Try to [blog](https://blog.olimorris.com) when I have useful things to share
 - ⚡ Fun fact: If you have an animal in your GitHub photo, I'm more likely to implement your enhancement request 😆
 
